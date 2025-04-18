@@ -1,8 +1,8 @@
 # About Me
 
-- 🔭 I’m currently working on building a small, tech-enabled, product-led, lean startup.
-
 - 🌱 I’m currently learning the cloud development and deployment tech stack and flow.
+
+- 🔭 I’m currently working on building a small, tech-enabled, product-led, lean startup.
 
 - 💬 Ask me about 17th-century horsemanship as an evidence base for leadership critique OR bespoke garment design and construction.
 
